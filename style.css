@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/dark-geometric.png");
+
+}
+
+
+h1 {
+    color: black;
+    font-size: 30;
+    background-color: lightblue;
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+}
+
+p{
+    text-align: center;
+    background-color: lightcoral;
+    width: 700px;
+    margin: auto;
+    margin-top: 25px;
+    font-size: 150%;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    padding: 15px;
+}
+
+button{
+    width: 100px;
+            text-align: center;
+            margin: auto;
+            
+            font-size: 15px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,.3);
+            transition: 0.3s;
+            cursor:pointer;
+            border-radius: 10px;
+
+}
