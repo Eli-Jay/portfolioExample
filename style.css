@@ -40,3 +40,17 @@ button{
             border-radius: 10px;
 
 }
+#me{
+transform:rotate(-90deg);
+width: 300px;
+}
+
+#mebox{
+    background-color:lightcoral;
+    padding:45px;
+    width: 640px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+
+}
